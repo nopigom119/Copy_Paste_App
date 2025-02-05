@@ -29,7 +29,7 @@ This program can be used under the Public Nuri Type 2 conditions.
 **Summary of Public Nuri Type 2 Conditions:**
 
 *   **Indicate Source:** You must specify the source of this program (author or development team).
-*   **Commercial Use Allowed:** You can use this program commercially.
+*   **Non-Commercial Use::** You may not use this program for commercial purposes.
 *   **Modification Allowed:** You can modify this program or create derivative works.
 *   **Same Conditions for Change Permission:** You must allow the same conditions for use of derivative works.
 
@@ -67,7 +67,7 @@ For inquiries about this program, please contact [rycbabd@gmail.com].
 **공공누리 제2형 조건 요약:**
 
 *   **출처 표시:** 본 프로그램의 출처 (작성자 또는 개발팀)를 명시해야 합니다.
-*   **상업적 이용 가능:** 본 프로그램을 상업적으로 이용할 수 있습니다.
+*   **비상업적 이용:** 본 프로그램을 상업적인 목적으로 이용할 수 없습니다.
 *   **변경 가능:** 본 프로그램을 수정하거나 2차 저작물을 만들 수 있습니다.
 *   **동일 조건 변경 허락:** 2차 저작물에 대해서도 동일한 조건으로 이용 허락해야 합니다.
 
