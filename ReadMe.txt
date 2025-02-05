@@ -19,18 +19,16 @@ This app can be usefully utilized for easily copying and managing text during va
 4.  Click the "Copy" button to copy the content of the corresponding text area to the clipboard.
 5.  Click the "X" button to delete unnecessary text areas.
 
-## Public Nuri Type 2 Copyright
+## License
 
-This program can be used under the Public Nuri Type 2 conditions.
+**This program is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).**
 
-**Summary of Public Nuri Type 2 Conditions:**
-
-*   **Indicate Source:** You must specify the source of this program (author or development team).
-*   **Non-Commercial Use::** You may not use this program for commercial purposes.
+*   **Attribution:** You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in a way that suggests the licensor endorses you or your use.
+*   **Non-Commercial Use:** You may not use this program for commercial purposes.
 *   **Modification Allowed:** You can modify this program or create derivative works.
-*   **Same Conditions for Change Permission:** You must allow the same conditions for use of derivative works.
+*   **Same Conditions for Change Permission:** If you modify or create derivative works of this program, you must distribute your contributions under the same license as the original.
 
-**You can check the details on the Public Nuri website ([https://www.kogl.or.kr/](https://www.kogl.or.kr/)).**
+**You can check the details on the Creative Commons website (https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en).**
 
 ## Contact
 
@@ -57,18 +55,18 @@ For inquiries about this program, please contact [rycbabd@gmail.com].
 4.  "복사" 버튼을 클릭하여 해당 텍스트 영역의 내용을 클립보드에 복사합니다.
 5.  "X" 버튼을 클릭하여 불필요한 텍스트 영역을 삭제합니다.
 
-## 공공누리 제2형 저작권
+## 저작권
 
-본 프로그램은 공공누리 제2형 조건에 따라 이용할 수 있습니다.
+본 프로그램은 다음 조건에 따라 이용할 수 있습니다.
 
-**공공누리 제2형 조건 요약:**
+**크리에이티브 커먼즈 저작자표시-비영리-동일조건변경허락 4.0 국제 라이선스 (CC BY-NC-SA 4.0)**
 
 *   **출처 표시:** 본 프로그램의 출처 (작성자 또는 개발팀)를 명시해야 합니다.
 *   **비상업적 이용:** 본 프로그램을 상업적인 목적으로 이용할 수 없습니다.
 *   **변경 가능:** 본 프로그램을 수정하거나 2차 저작물을 만들 수 있습니다.
 *   **동일 조건 변경 허락:** 2차 저작물에 대해서도 동일한 조건으로 이용 허락해야 합니다.
 
-**자세한 내용은 공공누리 홈페이지 ([https://www.kogl.or.kr/](https://www.kogl.or.kr/)) 에서 확인하실 수 있습니다.**
+**자세한 내용은 크리에이티브 커먼즈 홈페이지 (https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ko) 에서 확인하실 수 있습니다.**
 
 ## 문의
 
