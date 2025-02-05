@@ -24,7 +24,7 @@ This app can be usefully utilized for easily copying and managing text during va
 
 ## License
 
-**This program is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).**
+**This program is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)**
 
 *   **Attribution:** You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in a way that suggests the licensor endorses you or your use.
 *   **Non-Commercial Use:** You may not use this program for commercial purposes.
